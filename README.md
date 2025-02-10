@@ -2,11 +2,11 @@
 
 This repository contains a Shiny application that demonstrates the use of the customer churn model described in the [Using Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html) blog post.
 
-<a href="https://jjallaire.shinyapps.io/keras-customer-churn/"><img src="images/customer_churn.png" width=800/></a>
+<a href="http://github.com/surya-20-y/Keras-Customer-Churn-Master"><img src="images/customer_churn.png" width=800/></https://github.com/surya-20-y/Keras-Customer-Churn-Master.gita>
 
 ### Using the Application
 
-The application is deployed online at <https://jjallaire.shinyapps.io/keras-customer-churn/>.
+The application is deployed online at https://github.com/surya-20-y/Keras-Customer-Churn-Master.git
 
 To run the application locally, clone the repository then:
 
