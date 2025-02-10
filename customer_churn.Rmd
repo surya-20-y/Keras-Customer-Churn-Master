@@ -2,7 +2,7 @@
 title: "Keras-Customer-Churn-Master"
 output:
   flexdashboard::flex_dashboard: 
-    source_code: 
+    source_code: https://github.com/surya-20-y/Keras-Customer-Churn-Master.git
     social: ["naukari"]
 runtime: surya-20-y
 ---
