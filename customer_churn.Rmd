@@ -1,10 +1,10 @@
 ---
-title: "Customer Churn Analytics"
+title: "Keras-Customer-Churn-Master"
 output:
   flexdashboard::flex_dashboard: 
-    source_code: https://github.com/rstudio/keras-customer-churn
-    social: ["twitter", "linkedin"]
-runtime: shiny_prerendered
+    source_code: 
+    social: ["naukari"]
+runtime: surya-20-y
 ---
 
 ```{r setup}
